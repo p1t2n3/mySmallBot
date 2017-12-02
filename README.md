@@ -1,3 +1,1 @@
-# CoRSmallBot
-# mySmallBot
 # mySmallBot
